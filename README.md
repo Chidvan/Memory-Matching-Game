@@ -8,11 +8,11 @@ This is a Memory Flipping Game implemented in Java Swing, designed to test and e
   
 - Randomized Grid – Cards are shuffled each game for replayability.
 
--Memory Testing Mechanism – Players match pairs of hidden cards by remembering their positions.
+- Memory Testing Mechanism – Players match pairs of hidden cards by remembering their positions.
 
--Visual Feedback – Cards reveal their colors when flipped and reset if they don’t match.
+- Visual Feedback – Cards reveal their colors when flipped and reset if they don’t match.
 
--Game State Management – Disables matched cards and tracks the current selection.
+- Game State Management – Disables matched cards and tracks the current selection.
 
 # Technologies Used
 - Java 8+
